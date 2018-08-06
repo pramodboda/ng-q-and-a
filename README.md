@@ -71,8 +71,8 @@ The key features of Angular are:
 - Scope can watch expressions and propagate events. 
 - The characteristics of Scope are:
 	- Scope provide APIs ($watch) to observe model mutations.
-	- Scope provide APIs ($appl) 
+	- Scope provide APIs ($apply) to propagate any model changes through the system into the view from outside of the "Angular realm" (control) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg2NDgxNjUsMjI5NzQ1Mzg3LC04MT
-EwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbODk1NjMyNjczLDIyOTc0NTM4NywtODExMD
+kzNzQzLDE1MzM4OTU1MDhdfQ==
 -->
