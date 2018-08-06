@@ -72,8 +72,9 @@ The key features of Angular are:
 - The characteristics of Scope are:
 	- Scope provide APIs ($watch) to observe model mutations.
 	- Scope provide APIs ($apply) to propagate any model changes through the system into the view from outside of the "Angular realm" (controllers, services, Angular event handlers).
-	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"()
+	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"(prototypically) inherits properties fto
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMj
-k3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbMTk2MDk4NDQ3MSwtMTA4MDE4MDY3NCwtNz
+k3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1
+MDhdfQ==
 -->
