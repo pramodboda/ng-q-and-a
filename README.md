@@ -1,4 +1,17 @@
-# ng-q-and-a
+## ng  Questions and Answers
+
+### What is the difference between Angular and jQuery?
+| Features | jQuery | Angular |
+|--|--|--|
+| **DOM Manipulation** | Yes | Yes |
+| **RESTful API** | NO | Yes |
+| **Animation Support** | Yes | Yes |
+| **Deep Linking Routing** | No | Yes |
+| **Form Validation** | No | Yes |
+| **2 Way Data Binding** | No | Yes |
+| **AJAX/ JSONP** | Yes | Yes |
+
+Name
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIwMzU5XX0=
+eyJoaXN0b3J5IjpbLTQ1MTg2NzA3N119
 -->
