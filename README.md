@@ -59,8 +59,9 @@ The key features of Angular are:
 | **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular expression. |  |
 | **Filters** | In Angular, unlike JavaScript, we can use filters to format data before displaying it. |  | 
 
+## What is the different between `link` and `compile` in Angular
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE5MjEyNywtODExMDkzNzQzLDE1Mz
-M4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbLTExMTk3MzE5NDIsLTgxMTA5Mzc0MywxNT
+MzODk1NTA4XX0=
 -->
