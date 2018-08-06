@@ -70,8 +70,9 @@ The key features of Angular are:
 - Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. 
 - Scope can watch expressions and propagate events. 
 - The characteristics of Scope are:
-	- Scope provide APIs($) 
+	- Scope provide APIs ($watch) to observe model mutations.
+	- Scope provide APIs ($appl) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMz
-g5NTUwOF19
+eyJoaXN0b3J5IjpbLTE3MDg2NDgxNjUsMjI5NzQ1Mzg3LC04MT
+EwOTM3NDMsMTUzMzg5NTUwOF19
 -->
