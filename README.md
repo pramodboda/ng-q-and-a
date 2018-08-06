@@ -26,7 +26,7 @@ The key features of Angular are:
 
 ## Explain data binding in Angular
 
-- According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model at all times. When the model changes, the view reflects the"
+- According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model as the single-source-of-truth in your application. The view is a projection of the model at all timeat all times. When the model changes, the view reflects the"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNTM2NDkzLDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbNjY1OTgzOTg0LDE1MzM4OTU1MDhdfQ==
 -->
