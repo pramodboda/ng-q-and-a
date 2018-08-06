@@ -55,12 +55,12 @@ The key features of Angular are:
 |  | **Angular** | **JavaScript** |
 |--|--|--|
 |  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
-| **Forgiving** | In Angular expression, the evaluation is forgiving to `null` and `undefined`   | whereas in JavaScript `undefined` properties generate `TypeError` or `ReferenceError` |
-| **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular expression |  |
-| **Filters** | In Angular, unlike JavaScript, we can use filters to format data |  | 
+| **Forgiving** | In Angular expression, the evaluation is forgiving to `null` and `undefined`.   | whereas in JavaScript `undefined` properties generate `TypeError` or `ReferenceError`. |
+| **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular expression. |  |
+| **Filters** | In Angular, unlike JavaScript, we can use filters to format data before displaying it. |  | 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ1Mjg2NjcsLTgxMTA5Mzc0MywxNT
-MzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbLTE0MDE5MjEyNywtODExMDkzNzQzLDE1Mz
+M4OTU1MDhdfQ==
 -->
