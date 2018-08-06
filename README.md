@@ -48,8 +48,8 @@ The key features of Angular are:
 
 ## What is Angular Expression? How do you differentiate between Angular expressions and JavaScript expressions?   
 
-- Angular expressions are code snippets that are usually placed in binding such as `{{express}}`
+- Angular expressions are code snippets that are usually placed in binding such as `{{expression}}`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NzI2NDIwLC04MTEwOTM3NDMsMTUzMz
-g5NTUwOF19
+eyJoaXN0b3J5IjpbLTk0NjA4NDk4NCwtODExMDkzNzQzLDE1Mz
+M4OTU1MDhdfQ==
 -->
