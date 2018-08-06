@@ -93,9 +93,9 @@ Angular frameworks has the following advantages:
 An `injector` is a service locator, used to retrieve object instance as defined by provider, instantiate types, invoke methods, and load modules.
 
 ## What is factory method in Angular
-Factory method is used for creat
+Factory method is used for creating a directive. It is invoked when the compiler matches the directive for the first time. We can invoke the factory meth
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk1OTM2NjAsNjA4NzY4MjgzLC0yMD
+eyJoaXN0b3J5IjpbLTExNTk3NjgxNzQsNjA4NzY4MjgzLC0yMD
 cwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODcz
 MDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ
 ==
