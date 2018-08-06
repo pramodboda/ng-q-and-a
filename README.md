@@ -14,11 +14,19 @@
 ## Name the key features of Angular?
 
 The key features of Angular are:
-Scope
-Controller
-Model
-View
-Services Data
+- Scope
+- Controller
+- Model
+- View
+- Services 
+- Data Binding
+- Directives
+- Filters
+- Testable
+
+## Explain data binding in Angular
+
+- According 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNDA0MDU2LDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbMjA4NDkzNDc2NSwxNTMzODk1NTA4XX0=
 -->
