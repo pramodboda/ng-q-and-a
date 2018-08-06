@@ -75,9 +75,12 @@ The key features of Angular are:
 	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"(prototypically) inherits properties from its parent scope. An "isolate scope" dose not.
 	- Scope provide context against which expressions are evaluated. For example `{{username}}` expression is meaningless, unless it is evaluated against a specific scope which deines the `username` property.
 
-## What are the advantages of using Angular framewo
+## What are the advantages of using Angular framework
+
+Angular frameworks has the following advantages:
+- Supports 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk4MDI1MjQsLTEwODAxODA2NzQsLT
+eyJoaXN0b3J5IjpbLTE2MTkzODg4NzMsLTEwODAxODA2NzQsLT
 c5Nzg3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1
 NTA4XX0=
 -->
