@@ -55,10 +55,10 @@ The key features of Angular are:
 |  | **Angular** | **JavaScript** |
 |--|--|--|
 |  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
-| Forgiving | In |  |
+| Forgiving | In Angular expression, the evaluation is forgiving to `null` and `undefined` whereas in JavaScript `undefin`  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTQ3OTUxNywtODExMDkzNzQzLDE1Mz
-M4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbMTgxMjE4NTc0LC04MTEwOTM3NDMsMTUzMz
+g5NTUwOF19
 -->
