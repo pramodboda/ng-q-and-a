@@ -96,8 +96,10 @@ An `injector` is a service locator, used to retrieve object instance as defined 
 Factory method is used for creating a directive. It is invoked when the compiler matches the directive for the first time. We can invoke the factory method using `$injector.invoke`.
 
 Syntax: `module.factory('factoryName', function);`
+
+Results: When declaring 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTQ3MzczNSw2MDg3NjgyODMsLTIwNz
-AyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMw
-NjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbNjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MD
+I1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2
+NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
 -->
