@@ -81,10 +81,13 @@ Angular frameworks has the following advantages:
 - Supports two way data-binding.
 - Supports MVC pattern.
 - Supports static template and angular template.
-- Can add custom directives
-- Suppoe
+- Can add custom directives.
+- Supports RESTful services.
+- Supports form validations. 
+- Supports dependency injection.
+- Applying Animatio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NDg0ODIzLDYwMzM2OTkxNiwtMTA4MD
+eyJoaXN0b3J5IjpbNDI1NzY3ODY3LDYwMzM2OTkxNiwtMTA4MD
 E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
 LDE1MzM4OTU1MDhdfQ==
 -->
