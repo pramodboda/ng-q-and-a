@@ -90,9 +90,9 @@ Angular frameworks has the following advantages:
 
 ## Explain what is injector in Angular?
 
-An `injector` is a service locator, used to re  
+An `injector` is a service locator, used to retrive object instance as defined by provider, instantiate types, invoke methods, and load modules.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMz
-M2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4
-NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbLTc1NzgxOTA0MSw2MDg3NjgyODMsLTIwNz
+AyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMw
+NjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
 -->
