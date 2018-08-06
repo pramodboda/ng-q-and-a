@@ -54,10 +54,11 @@ The key features of Angular are:
 
 |  | **Angular** | **JavaScript** |
 |--|--|--|
-|  **Context** | The expression are evaluted against a scope object in Angular | while JavaScript expression are evaluated agains |
+|  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
+| Forgiving | In |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMTg0MTAzLC04MTEwOTM3NDMsMTUzMz
-g5NTUwOF19
+eyJoaXN0b3J5IjpbMjA4MTQ3OTUxNywtODExMDkzNzQzLDE1Mz
+M4OTU1MDhdfQ==
 -->
