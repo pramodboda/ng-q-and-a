@@ -40,7 +40,10 @@ The key features of Angular are:
 	 - Attribute directives.
 	 - CSS class directives.
 	 - Comment directives.
-    
+
+## What are controllers in Angular?
+
+Controllers are JavaScript functions which provide dara    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjA4MjQyNywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbMTgxODQ0MjExNSwxNTMzODk1NTA4XX0=
 -->
