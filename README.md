@@ -68,8 +68,10 @@ The key features of Angular are:
 
 - Scope is an object that refers to the application model. It is an execution context for expressions.
 - Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. 
-- Scope can watch expressions and propa
+- Scope can watch expressions and propagate events. 
+- The characteristics of Scope are:
+	- Scope provide APIs($) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzA3MjA5NCwtODExMDkzNzQzLDE1Mz
-M4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMz
+g5NTUwOF19
 -->
