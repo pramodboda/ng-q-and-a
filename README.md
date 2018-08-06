@@ -78,11 +78,13 @@ The key features of Angular are:
 ## What are the advantages of using Angular framework
 
 Angular frameworks has the following advantages:
-- Supports two way data-binding
-- Supports MVC pattern 
-- Supports static 
+- Supports two way data-binding.
+- Supports MVC pattern.
+- Supports static template and angular template.
+- Can add custom directives
+- Suppoe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
-c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
-OF19
+eyJoaXN0b3J5IjpbMzY5NDg0ODIzLDYwMzM2OTkxNiwtMTA4MD
+E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
+LDE1MzM4OTU1MDhdfQ==
 -->
