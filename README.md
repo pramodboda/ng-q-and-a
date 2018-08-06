@@ -46,7 +46,7 @@ The key features of Angular are:
 - Controllers are JavaScript functions which provide data and logic to HTML UI. As the name suggests, 
 - They control how data flows from the server to HTML UI. 
 
-## What is Angular Expression? How d  
+## What is Angular Expression? How do you differentiate between Angular expresstions a   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgzODU5MjAsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbMjAwMTk1NDUzOCwxNTMzODk1NTA4XX0=
 -->
