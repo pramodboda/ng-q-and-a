@@ -50,8 +50,8 @@ The key features of Angular are:
 
 - Angular expressions are code snippets that are usually placed in binding such as `{{expression}}`similar to JavaScript.
 
-- The
+- The main diffrences 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzOTc4NDY3LC04MTEwOTM3NDMsMTUzMz
-g5NTUwOF19
+eyJoaXN0b3J5IjpbLTEwNjUwODAzMzMsLTgxMTA5Mzc0MywxNT
+MzODk1NTA4XX0=
 -->
