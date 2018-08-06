@@ -62,7 +62,12 @@ The key features of Angular are:
 ## What is the different between `link` and `compile` in Angular
 - `Compile` function is used for template DOM Manipulation and to collect all the directives.
 - `Link` function is used for registering DOM listeners as well as instances DOM manipulation and is executed once the template has been cloned.
+
+
+## What are the characteristics of 	`scope`
+
+- Scope is an o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzM0MDQ4NiwtODExMDkzNzQzLDE1Mz
-M4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbNzE5ODcyNjM5LC04MTEwOTM3NDMsMTUzMz
+g5NTUwOF19
 -->
