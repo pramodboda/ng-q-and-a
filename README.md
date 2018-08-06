@@ -56,10 +56,11 @@ The key features of Angular are:
 |--|--|--|
 |  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
 | **Forgiving** | In Angular expression, the evaluation is forgiving to `null` and `undefined`   | whereas in JavaScript `undefined` properties generate `TypeError` or `ReferenceError` |
-| **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular  |  | 
+| **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular expression |  |
+ 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjE0MDY5NiwtODExMDkzNzQzLDE1Mz
+eyJoaXN0b3J5IjpbLTUxNjM1Mzk1MCwtODExMDkzNzQzLDE1Mz
 M4OTU1MDhdfQ==
 -->
