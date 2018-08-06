@@ -33,7 +33,7 @@ The key features of Angular are:
 
 ## What are directives in Angular
 
-- A core feature of Angular
+- A core feature of Angular, directives are attributes that allows you to invent new HTML syntax, specific to your application. They are essentially functions that execute wh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzA4NjYxMCwxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbLTIwODQ4Mzg5MTcsMTUzMzg5NTUwOF19
 -->
