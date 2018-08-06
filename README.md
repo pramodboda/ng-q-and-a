@@ -88,9 +88,11 @@ Angular frameworks has the following advantages:
 - Applying Animations.
 - Event Handlers.
 
-## Explan
+## Explain what is injector in Angular?
+
+An `injector` is a service locator, used to re  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTA4MjUxNCwtMjA3MDI1NjE1MCw2MD
-MzNjk5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUz
-ODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbNjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMz
+M2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4
+NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
 -->
