@@ -51,8 +51,15 @@ The key features of Angular are:
 - Angular expressions are code snippets that are usually placed in binding such as `{{expression}}`similar to JavaScript.
 
 - The main differences between Angular expression and JavaScript expression are:
-||||
+| --  |   |   |
+|--|--|--|
+| Context |  |  |
+
+|  |  |
+|--|--|
+|  |  |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MTcxMTQsLTgxMTA5Mzc0MywxNTMzOD
-k1NTA4XX0=
+eyJoaXN0b3J5IjpbLTIwOTMzOTI1NzMsLTgxMTA5Mzc0MywxNT
+MzODk1NTA4XX0=
 -->
