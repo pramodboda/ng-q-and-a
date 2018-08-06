@@ -11,7 +11,7 @@
 | **2 Way Data Binding** | No | Yes |
 | **AJAX/ JSONP** | Yes | Yes |
 
-Name
+Nam
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTg2NzA3N119
+eyJoaXN0b3J5IjpbMTUzMzg5NTUwOF19
 -->
