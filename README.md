@@ -36,7 +36,11 @@ The key features of Angular are:
 - A core feature of Angular, directives are attributes that allows you to invent new HTML syntax, specific to your application. They are essentially functions that execute when the Angular compiler finds them in the DOM.
 - Some of the most commonly used directives are `ng-app`, `ng-controller` and `ng-repeat`. 
 - The different types of directives are: 
- --  
+	 - Element directives.
+	 - Attribute directives.
+	 - CSS class directives.
+	 - Comment directives.
+    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDIzMjgwMywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbMTM1MjA4MjQyNywxNTMzODk1NTA4XX0=
 -->
