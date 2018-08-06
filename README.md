@@ -43,7 +43,7 @@ The key features of Angular are:
 
 ## What are controllers in Angular?
 
-Controllers are JavaScript functions which provide data     
+Controllers are JavaScript functions which provide data and logic to HTML UI. As the name suggests, They control how data flows from the server to HTML UI.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgzNjY3NjksMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbLTEzNzA5NTcxODUsMTUzMzg5NTUwOF19
 -->
