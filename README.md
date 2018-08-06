@@ -60,8 +60,9 @@ The key features of Angular are:
 | **Filters** | In Angular, unlike JavaScript, we can use filters to format data before displaying it. |  | 
 
 ## What is the different between `link` and `compile` in Angular
-
+- `Compile` function is used for template DOM Manipulation and to collect all the directives.
+- `Link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk3MzE5NDIsLTgxMTA5Mzc0MywxNT
-MzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbMTE0Mzk1NTk1NiwtODExMDkzNzQzLDE1Mz
+M4OTU1MDhdfQ==
 -->
