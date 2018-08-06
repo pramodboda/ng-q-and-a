@@ -85,9 +85,10 @@ Angular frameworks has the following advantages:
 - Supports RESTful services.
 - Supports form validations. 
 - Supports dependency injection.
-- Applying Animatio
+- Applying Animations.
+- Event Handlers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NzY3ODY3LDYwMzM2OTkxNiwtMTA4MD
-E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
-LDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbLTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMD
+gwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3
+NDMsMTUzMzg5NTUwOF19
 -->
