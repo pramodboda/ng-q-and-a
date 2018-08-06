@@ -28,7 +28,12 @@ The key features of Angular are:
 
 - According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model as the single-source-of-truth in your application. The view is a projection of the model at all times. When the model changes, the view reflects the change and vice versa."
 - There are two ways of data binding:
-1. Data mining in classica
+1. Data mining in classical template systems.
+2. Data binding in angular templates.
+
+## What are directives in Angular
+
+- A core feature of Angular
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3NjMxMDMyLDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbLTU5MzA4NjYxMCwxNTMzODk1NTA4XX0=
 -->
