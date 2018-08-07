@@ -176,12 +176,14 @@ It is a five-step process:
 - Step3: - Configure the route provider.
 - Step4: - Define hyperlinks.
 - Step5: - Define sections where to load the `view`.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyOD
-I5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMw
-LC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMD
-UzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4Mywt
-MjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nz
-g3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4
+eyJoaXN0b3J5IjpbLTYxMTIxMTUzOCwyMDM2NzQxOTA2LDE3Nj
+cwNzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQy
+LC00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNT
+EwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQs
+NjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MD
+E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
 XX0=
 -->
