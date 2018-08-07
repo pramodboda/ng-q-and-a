@@ -177,9 +177,11 @@ It is a five-step process:
 - Step4: - Define hyperlinks.
 - Step5: - Define sections where to load the `view`.
 
+### Explain `$q` service, deferred and promises.
 
+- `promise`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTIxMTUzOCwyMDM2NzQxOTA2LDE3Nj
+eyJoaXN0b3J5IjpbMTkwNzc1MjE2NiwyMDM2NzQxOTA2LDE3Nj
 cwNzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQy
 LC00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNT
 EwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQs
