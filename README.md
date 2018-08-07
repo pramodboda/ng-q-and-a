@@ -146,11 +146,12 @@ Angular provides support to create custom directives for the following:
 ## Can we have nested controllers in Angular
 Yes, we can create nested `controllers` in Angular. Nested `controllers` are defined in hierarchical manner while using in `view`.
 
-
+## What is bootstrapping in Angular
+Bootstrapping in Angular is nothing but  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NT
-EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
-LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
-Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
-LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbLTIxMTU0MzM4OTIsLTQxMzEzNzAzMCwtMz
+Q3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0
+NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNz
+AyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMw
+NjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
 -->
