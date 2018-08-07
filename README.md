@@ -139,12 +139,12 @@ Angular provides support to create custom directives for the following:
 - **Comment** - Directive activates when a matching comment is encountered.
 ## What is `$rootscope` in Angular
 - Every application has a single root scope.
-- 
+- All other scopes are descendant scopes of the root scope.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjg2Njg1OSwtMzQ3NDkzMTEwLDY3NT
-EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
-LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
-Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
-LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbLTIxMjE4ODM4MzEsLTM0NzQ5MzExMCw2Nz
+UxMzM3NDksMTYzNTEwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1
+MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMz
+M2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4
+NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
 -->
