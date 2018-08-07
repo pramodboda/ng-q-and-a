@@ -171,13 +171,14 @@ Yes Angular is compatible with the following browsers: Safari, Chrome, Firefox, 
 
 ### How to implement routing in Angular? 
 It is a five-step process:
-- Step1:
+- Step1: - Add the `angular-route.js` file to your view.
+- Step2: - Inject `ngroute` functionality while creating Angular
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3OTUwOTUzLDE3NjcwNzk5NjAsNDI4Mj
-kxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcwMzAs
-LTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOTMwNT
-MyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0y
-MDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3OD
-czMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhd
-fQ==
+eyJoaXN0b3J5IjpbLTMwNzQ1OTEyMCwxNzY3MDc5OTYwLDQyOD
+I5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMw
+LC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMD
+UzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4Mywt
+MjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nz
+g3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4
+XX0=
 -->
