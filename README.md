@@ -141,10 +141,13 @@ Angular provides support to create custom directives for the following:
 - Every application has a single root scope.
 - All other scopes are descendant scopes of the root scope.
 - Scopes provide separation between the `model` and the `view`, via a mechanism for watching the model for changes.
-- They also provide event emission/
+- They also provide event emission/ broadcast and subscription facility.
+
+## Can we have nested controllers in Angular
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1MjAxMDIwLC0zNDc0OTMxMTAsNjc1MT
+eyJoaXN0b3J5IjpbOTAyOTkwNTM5LC0zNDc0OTMxMTAsNjc1MT
 MzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAs
 NjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNj
 k5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcs
