@@ -177,17 +177,17 @@ It is a five-step process:
 - Step4: - Define hyperlinks.
 - Step5: - Define sections where to load the `view`.
 
-### Explain `$q` service, deferred and promises.
+### Explain `$q` service, `deferred` and `promises`.
 
 - `promises` are post logic's which are executed after some operation/ action is completed whereas `deferred` is used to control how and when those promise logic's will execute.
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDI3MzQxMCwyMDM2NzQxOTA2LDE3Nj
-cwNzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQy
-LC00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNT
-EwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQs
-NjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MD
-E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
-XX0=
+eyJoaXN0b3J5IjpbLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNz
+Y3MDc5OTYwLDQyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0
+MiwtNDEzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2Mz
+UxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0
+LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwOD
+AxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0
+M119
 -->
