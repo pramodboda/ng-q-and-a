@@ -140,12 +140,13 @@ Angular provides support to create custom directives for the following:
 ## What is `$rootscope` in Angular
 - Every application has a single root scope.
 - All other scopes are descendant scopes of the root scope.
-- Scopes provide separation between the `model` and the `view`, via a mechanism for 
+- Scopes provide separation between the `model` and the `view`, via a mechanism for watching the model for changes.
+- They also provide event emission/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDQyMjIzNiwtMzQ3NDkzMTEwLDY3NT
-EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
-LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
-Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
-LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbMzc1MjAxMDIwLC0zNDc0OTMxMTAsNjc1MT
+MzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAs
+NjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNj
+k5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcs
+LTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
 -->
