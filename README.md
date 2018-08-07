@@ -175,9 +175,9 @@ It is a five-step process:
 - Step2: - Inject `ngroute` functionality while creating Angular app object.
 - Step3: - Configure the route provider.
 - Step4: - Define hyperlinks.
-- Step 5: - Define sections whet
+- Step 5: - Define sections where to load the `view`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk5MzQwNjIsMTc2NzA3OTk2MCw0Mj
+eyJoaXN0b3J5IjpbLTExMzA4NjQzNzIsMTc2NzA3OTk2MCw0Mj
 gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
 MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
 A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
