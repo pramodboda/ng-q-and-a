@@ -151,9 +151,11 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 - **Automatic Bootstrapping:** this is done by adding `ng-app` directive to the root of the application, typically on the tag or tag if you want angular to bootstrap your application automatically. When angular finds `ng-app` directive, it loads the module associated with it and then compiles the DOM.
 - **Manual Bootstrapping:** Manual bootstrapping provides you more control on how and when to initialize your angular app. It is useful where you want to perform any other operation before Angular wakes up and compile the page.
 
-## What 
+## What does SPA (Single Page Application) mean? How can we implement SPA with Angular?
+
+- Single Page Application (SPAs) are web
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY1NTcwMjgsMjI2MjYzMzIwLC01ND
+eyJoaXN0b3J5IjpbLTE3MjI5NzA5NDEsMjI2MjYzMzIwLC01ND
 I5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0
 OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMD
 Y3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2
