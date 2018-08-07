@@ -133,12 +133,12 @@ Internationalization is a way in which you can show locale specific information 
 
 ## On which types of component can we create a custom directive
 Angular provides support to create custom directives for the following:
-- Element directives - Directive activates when a 
+- **Element directives** - Directive activates when a matching element is encountered.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMD
-UzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4Mywt
-MjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nz
-g3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4
-XX0=
+eyJoaXN0b3J5IjpbLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNT
+EwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQs
+NjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MD
+E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
+LDE1MzM4OTU1MDhdfQ==
 -->
