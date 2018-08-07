@@ -157,9 +157,12 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 - It's a concept where we create a single shell page or master page and load the web-pages inside that master page instead of loading pages from the server by doing post backs. We can implement SPA with Angular using Angular `routes`. 
 
 ### Why Angular?
-Angular lets us extend HTML vocahbulary for our application resulting in an expressv
+Angular lets us extend HTML vocabulary for our application resulting in an expressive, readable, and quick to develop environment. Some of the advantages are:
+
+- MVC implementation is done right.
+- It extends
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5OTU0Mzc5LDE3NjcwNzk5NjAsNDI4Mj
+eyJoaXN0b3J5IjpbODQ0NDg1Mzk0LDE3NjcwNzk5NjAsNDI4Mj
 kxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcwMzAs
 LTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOTMwNT
 MyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0y
