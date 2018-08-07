@@ -136,12 +136,13 @@ Angular provides support to create custom directives for the following:
 - **Element directives** - Directive activates when a matching element is encountered.
 - **Attribute** - Directive activates when a matching attribute is encountered.
 - **CSS** - Directive activates when a matching css style is encountered.
-- **Commn**
+- **Comment** - Directive activates when a matching comment is encountered.
+## What is `$rootscope` in Angular
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTcxMDg1NiwtMzQ3NDkzMTEwLDY3NT
-EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
-LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
-Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
-LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbNzg0MjE0NDQ3LC0zNDc0OTMxMTAsNjc1MT
+MzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAs
+NjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNj
+k5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcs
+LTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
 -->
