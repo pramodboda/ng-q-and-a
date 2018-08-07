@@ -129,11 +129,13 @@ No. Angular applications cannot be nested within each other.
 ## What is internationalization and how to implement it in Angular
 Internationalization is a way in which you can show locale specific information on a website. 
 - Angular supports inbuilt internalization for three types of filters: currency, date and numbers. 
-- To implement internalization, we only need to incorporate corresponding js acc
+- To implement internalization, we only need to incorporate corresponding js according to locale of the country. By default it handles the locale of the browser.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTI3NDIzMiwtOTMwNTMyNDYzLDYzNT
-A1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUw
-LDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOT
-c0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbMTExNDcxMTE1LC05MzA1MzI0NjMsNjM1MD
+U4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAs
+NjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5Nz
+Q1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
 -->
