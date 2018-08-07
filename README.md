@@ -149,12 +149,12 @@ Yes, we can create nested `controllers` in Angular. Nested `controllers` are def
 ## What is bootstrapping in Angular
 Bootstrapping in Angular is nothing but initializing, or starting the Angular app. Angular supports automatic and manual bootstrapping.
 - **Automatic Bootstrapping:** this is done by adding `ng-app` directive to the root of the application, typically on the tag or tag if you want angular to bootstrap your application automatically. When angular finds `ng-app` directive, it loads the module associated with it and then compiles the DOM.
-- **Manual Bootstrapping:** Manual bootstrapping
+- **Manual Bootstrapping:** Manual bootstrapping provides you more control on how and when to initialize your angular app. It is useful where you want to perform any other operation befo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkwOTYyNDcsLTU0MjkyMzI0MiwtND
-EzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4
-MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwOD
-c2ODI4MywtMjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2
-NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNT
-MzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbLTUwNzU3MzU5MywtNTQyOTIzMjQyLC00MT
+MxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgy
+MSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4Nz
+Y4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3
+NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1Mz
+M4OTU1MDhdfQ==
 -->
