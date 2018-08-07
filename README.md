@@ -127,11 +127,13 @@ No. Only one Angular application can be auto-bootstrapped per HTML document.
 No. Angular applications cannot be nested within each other.
 
 ## What is internationalization and how to implement it in Angular
-Internationalization is a way in which you can show locale specific information on a website. Angular supports inbuilt internalization for three types of filters: currency, date and numbers. 
+Internationalization is a way in which you can show locale specific information on a website. 
+- Angular supports inbuilt internalization for three types of filters: currency, date and numbers. 
+- To implement internalization, we only need to incorporate corresponding js acc
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMzY0NjksLTkzMDUzMjQ2Myw2MzUwNT
-g3NTAsNjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2
-MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3ND
-UzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbLTY0NTI3NDIzMiwtOTMwNTMyNDYzLDYzNT
+A1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUw
+LDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOT
+c0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
 -->
