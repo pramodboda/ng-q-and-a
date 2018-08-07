@@ -160,13 +160,14 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 Angular lets us extend HTML vocabulary for our application resulting in an expressive, readable, and quick to develop environment. Some of the advantages are:
 
 - MVC implementation is done right.
-- It extends
+- It extends HTML using directives, expression and data binding techniques to define a powerful HTML template.
+- Two way data-binding, form valid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDg1Mzk0LDE3NjcwNzk5NjAsNDI4Mj
-kxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcwMzAs
-LTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOTMwNT
-MyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0y
-MDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3OD
-czMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhd
-fQ==
+eyJoaXN0b3J5IjpbLTE4ODgyNjI4ODIsMTc2NzA3OTk2MCw0Mj
+gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
+MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
+A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
+LTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
+c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
+OF19
 -->
