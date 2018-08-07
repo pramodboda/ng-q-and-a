@@ -167,13 +167,15 @@ Angular lets us extend HTML vocabulary for our application resulting in an expre
 - It helps you to structure and test your JavaScript code.
 
 ### Is Angular compatible with all browsers?
-Yes Angular is compatible with the foll 
+Yes Angular is compatible with the following browsers: Safari, Chrome, Firefox, Opera 15, IE9 and mobile browsers(Android, Chrome Mobile, iOS Safari).
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjk5MTkwNywxNzY3MDc5OTYwLDQyOD
-I5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMw
-LC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMD
-UzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4Mywt
-MjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nz
-g3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4
-XX0=
+eyJoaXN0b3J5IjpbLTE0MzI0Mzg0NDgsMTc2NzA3OTk2MCw0Mj
+gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
+MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
+A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
+LTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
+c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
+OF19
 -->
