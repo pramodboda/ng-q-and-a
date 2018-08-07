@@ -47,7 +47,7 @@ The key features of Angular are:
 
 ### What is Angular Expression? How do you differentiate between Angular expressions and JavaScript expressions?   
 
-- Angular expressions are code snippets that are usually placed in binding such as `{{expression}}`similar to JavaScript.
+- Angular expressions are code snippets that are usually placed in binding such as `{{expression}}` similar to JavaScript.
 
 - The main differences between Angular expression and JavaScript expression are:
 
@@ -157,10 +157,10 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 - It's a concept where we create a single shell page or master page and load the web-pages inside that master page instead of loading pages from the server by doing post backs. We can implement SPA with Angular using Angular `routes`. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ3ODEyODgsMjI2MjYzMzIwLC01ND
-I5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0
-OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMD
-Y3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2
-LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MT
-EwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbMTc3MTk2ODMwNiwyMjYyNjMzMjAsLTU0Mj
+kyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMzNzQ5
+LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAsNjMwNj
+cxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNjk5MTYs
+LTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcsLTgxMT
+A5Mzc0MywxNTMzODk1NTA4XX0=
 -->
