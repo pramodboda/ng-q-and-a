@@ -161,13 +161,16 @@ Angular lets us extend HTML vocabulary for our application resulting in an expre
 
 - MVC implementation is done right.
 - It extends HTML using directives, expression and data binding techniques to define a powerful HTML template.
-- Two way data-binding, form valid
+- Two way data-binding, form validations, routing supports, inbuilt services.
+- REST friendly.
+- Dependency injection support.
+- It helps you to structure and test your JavaScript
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgyNjI4ODIsMTc2NzA3OTk2MCw0Mj
-gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
-MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
-A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
-LTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
-c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
-OF19
+eyJoaXN0b3J5IjpbLTExODg0MzI2NSwxNzY3MDc5OTYwLDQyOD
+I5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMw
+LC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMD
+UzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4Mywt
+MjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nz
+g3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4
+XX0=
 -->
