@@ -179,13 +179,15 @@ It is a five-step process:
 
 ### Explain `$q` service, deferred and promises.
 
-- `promises` are post logic's which are executed after some operation/ action is completed whereas 'deferred' is use
+- `promises` are post logic's which are executed after some operation/ action is completed whereas `deferred` is used to control how and when those promise logic's will execute.
+- We can think about `promi`
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDU4NTEyMSwyMDM2NzQxOTA2LDE3Nj
-cwNzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQy
-LC00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNT
-EwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQs
-NjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MD
-E4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQz
-XX0=
+eyJoaXN0b3J5IjpbODAzNjgxNDM3LDIwMzY3NDE5MDYsMTc2Nz
+A3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIs
+LTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MT
+A1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2
+MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMT
+gwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDNd
+fQ==
 -->
