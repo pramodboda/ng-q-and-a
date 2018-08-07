@@ -122,9 +122,13 @@ No. Only one Angular application can be auto-bootstrapped per HTML document.
 - The first `ngApp` found in the document will be used to define the root element to auto-bootstrap as an application. 
 - If another `ng-app` directive has been placed then it will not be processed by Angular and we will need to manually bootstrap the second app, instead of using second `ng-app` directive.
 
+## Can Angular applications(ng-app) be nested within each other?
+
+No. Angular applications cannot be be
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3Nj
-gyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0
-LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMz
-g5NTUwOF19
+eyJoaXN0b3J5IjpbNjg5NTc5NzIzLDYzNTA1ODc1MCw2MzA2Nz
+EyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwt
+MTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMD
+kzNzQzLDE1MzM4OTU1MDhdfQ==
 -->
