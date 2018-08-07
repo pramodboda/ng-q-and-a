@@ -153,9 +153,10 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 
 ## What does SPA (Single Page Application) mean? How can we implement SPA with Angular?
 
-- Single Page Application (SPAs) are web
+- Single Page Application (SPAs) are web apps that load a single HTML page and dynamically update that page as the user interacts with the app.
+- In an SPA the page never reloads,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI5NzA5NDEsMjI2MjYzMzIwLC01ND
+eyJoaXN0b3J5IjpbLTIwODM5NTU2ODgsMjI2MjYzMzIwLC01ND
 I5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0
 OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMD
 Y3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2
