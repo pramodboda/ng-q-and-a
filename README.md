@@ -132,11 +132,12 @@ Internationalization is a way in which you can show locale specific information 
 - To implement internalization, we only need to incorporate corresponding js according to locale of the country. By default it handles the locale of the browser.
 
 ## On which types of component can we create a custom directive
-Angular
+Angular p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTEwNTgyMSwtOTMwNTMyNDYzLDYzNT
-A1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUw
-LDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOT
-c0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbMTM1Njc0NDg0NSwxNjM1MTA1ODIxLC05Mz
+A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
+LTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
+c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
+OF19
 -->
