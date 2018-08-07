@@ -169,13 +169,15 @@ Angular lets us extend HTML vocabulary for our application resulting in an expre
 ### Is Angular compatible with all browsers?
 Yes Angular is compatible with the following browsers: Safari, Chrome, Firefox, Opera 15, IE9 and mobile browsers(Android, Chrome Mobile, iOS Safari).
 
- 
+### How to implement routing in Angular? 
+It is a five-step process:
+- Step1:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI0Mzg0NDgsMTc2NzA3OTk2MCw0Mj
-gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
-MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
-A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
-LTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
-c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
-OF19
+eyJoaXN0b3J5IjpbMjg3OTUwOTUzLDE3NjcwNzk5NjAsNDI4Mj
+kxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcwMzAs
+LTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOTMwNT
+MyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0y
+MDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3OD
+czMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhd
+fQ==
 -->
