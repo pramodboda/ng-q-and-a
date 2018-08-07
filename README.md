@@ -151,12 +151,12 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 - **Automatic Bootstrapping:** this is done by adding `ng-app` directive to the root of the application, typically on the tag or tag if you want angular to bootstrap your application automatically. When angular finds `ng-app` directive, it loads the module associated with it and then compiles the DOM.
 - **Manual Bootstrapping:** Manual bootstrapping provides you more control on how and when to initialize your angular app. It is useful where you want to perform any other operation before Angular wakes up and compile the page.
 
-
+## What 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMz
-EzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIx
-LC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3Nj
-gyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0
-LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMz
-g5NTUwOF19
+eyJoaXN0b3J5IjpbLTExMjY1NTcwMjgsMjI2MjYzMzIwLC01ND
+I5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0
+OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMD
+Y3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2
+LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MT
+EwOTM3NDMsMTUzMzg5NTUwOF19
 -->
