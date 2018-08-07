@@ -126,11 +126,12 @@ No. Only one Angular application can be auto-bootstrapped per HTML document.
 
 No. Angular applications cannot be nested within each other.
 
-## What is internationalization and how to implement it in An
+## What is internationalization and how to implement it in Angular
+Internati
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwOTQ0OTgzLDYzNTA1ODc1MCw2MzA2Nz
-EyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwt
-MTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMD
-kzNzQzLDE1MzM4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbMTMxNzkzMDYxMiw2MzUwNTg3NTAsNjMwNj
+cxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNjk5MTYs
+LTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcsLTgxMT
+A5Mzc0MywxNTMzODk1NTA4XX0=
 -->
