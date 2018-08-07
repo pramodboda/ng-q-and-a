@@ -4,7 +4,7 @@
 | Features | jQuery | Angular |
 |--|--|--|
 | **DOM Manipulation** | Yes | Yes |
-| **RESTful API** | NO | Yes |
+| **RESTful API** | No | Yes |
 | **Animation Support** | Yes | Yes |
 | **Deep Linking Routing** | No | Yes |
 | **Form Validation** | No | Yes |
@@ -123,8 +123,8 @@ No. Only one Angular application can be auto-bootstrapped per HTML document.
 - If another `ng-app` directive has been placed then it will not be processed by Angular and we will need to manually bootstrap the second app, instead of using second `ng-app` directive.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTA1Njk5NCw2MzA2NzEyNjQsNjA4Nz
-Y4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3
-NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1Mz
-M4OTU1MDhdfQ==
+eyJoaXN0b3J5IjpbNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3Nj
+gyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0
+LC03OTc4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMz
+g5NTUwOF19
 -->
