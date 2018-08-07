@@ -156,14 +156,14 @@ Bootstrapping in Angular is nothing but initializing, or starting the Angular ap
 - In an SPA the page never reloads, though parts of the page may refresh. This reduces the round trips to the server to a minimum.
 - It's a concept where we create a single shell page or master page and load the web-pages inside that master page instead of loading pages from the server by doing post backs. We can implement SPA with Angular using Angular `routes`. 
 
+### Why Angular?
 
-78o8o8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMDgyNDU4MSwxNzY3MDc5OTYwLDQyOD
-I5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMw
-LC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMD
-UzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4Mywt
-MjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nz
-g3MzA2NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4
-XX0=
+eyJoaXN0b3J5IjpbLTIxMjgxNDg4OTAsMTc2NzA3OTk2MCw0Mj
+gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
+MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
+A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMs
+LTIwNzAyNTYxNTAsNjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OT
+c4NzMwNjYsMjI5NzQ1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUw
+OF19
 -->
