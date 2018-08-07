@@ -138,10 +138,11 @@ Angular provides support to create custom directives for the following:
 - **CSS** - Directive activates when a matching css style is encountered.
 - **Comment** - Directive activates when a matching comment is encountered.
 ## What is `$rootscope` in Angular
-Every application has a si
+- Every application has a single root scope.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTI3MzkzMywtMzQ3NDkzMTEwLDY3NT
+eyJoaXN0b3J5IjpbMTAwNjg2Njg1OSwtMzQ3NDkzMTEwLDY3NT
 EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
 LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
 Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
