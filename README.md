@@ -144,12 +144,13 @@ Angular provides support to create custom directives for the following:
 - They also provide event emission/ broadcast and subscription facility.
 
 ## Can we have nested controllers in Angular
+Yes, we can create nested `controllers` in Angular. Nested `controllers` are defined in hierarchical manner while using in `view`.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyOTkwNTM5LC0zNDc0OTMxMTAsNjc1MT
-MzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAs
-NjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MDMzNj
-k5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUzODcs
-LTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NT
+EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
+LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
+Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
+LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
 -->
