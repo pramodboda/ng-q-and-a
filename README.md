@@ -97,9 +97,34 @@ Factory method is used for creating a directive. It is invoked when the compiler
 
 Syntax: `module.factory('factoryName', function);`
 
-Results: When declaring 
+Results: When declaring factoryName as an injectable argument you will be provided with the value that is returned by invoking the function reference passed to module.factory.
+
+## What is `ng-app`, `ng-init`, and `ng-model`
+
+- `ng-app`: Initializes application.
+- `ng-model`: Binds HTML controls to application data.
+- `ng-Controller`: Attaches a controller class to view.
+- `ng-repeat`: Bind repeated data HTML elements. Its like a for loop.
+- `ng-if` Bind HTML elements with condition.
+- `ng-show`: Used to show the HTML elements.
+- `ng-hide`: Used to hide the HTML elements.
+- `ng-class`: Used to assign CSS class.
+- `ng-src`: Used to pass the URL image etc.
+
+## Does Angular use the jQuery library
+
+Yes, Angular can use jQuery if it's present in the app when the application is being bootstrapped. 
+- If jQuery is not present in the script path, Angular falls back to its own implementation of the subset of jQuery that we call jQLite.
+
+## Can Angular have multiple `ng-app` directives in a single page
+
+No. Only one Angular application can be auto-bootstrapped per HTML document.
+- The first `ngApp` found in the document will be used to define the root element to auto-bootstrap as an application. 
+- If another `ng-app` directive has been placed then it will not be processed by Angular and we will need to manually bootstrap the second app, instead of using second `ng-app` directive.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MD
-I1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2
-NiwyMjk3NDUzODcsLTgxMTA5Mzc0MywxNTMzODk1NTA4XX0=
+eyJoaXN0b3J5IjpbMTU1NDYyMzk2Niw2MzA2NzEyNjQsNjA4Nz
+Y4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3
+NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1Mz
+M4OTU1MDhdfQ==
 -->
