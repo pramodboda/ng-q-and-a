@@ -131,11 +131,12 @@ Internationalization is a way in which you can show locale specific information 
 - Angular supports inbuilt internalization for three types of filters: currency, date and numbers. 
 - To implement internalization, we only need to incorporate corresponding js according to locale of the country. By default it handles the locale of the browser.
 
-
+## On which types of component can we create a custom directive
+Angular
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDcxMTE1LC05MzA1MzI0NjMsNjM1MD
-U4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAs
-NjAzMzY5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5Nz
-Q1Mzg3LC04MTEwOTM3NDMsMTUzMzg5NTUwOF19
+eyJoaXN0b3J5IjpbMTYzNTEwNTgyMSwtOTMwNTMyNDYzLDYzNT
+A1ODc1MCw2MzA2NzEyNjQsNjA4NzY4MjgzLC0yMDcwMjU2MTUw
+LDYwMzM2OTkxNiwtMTA4MDE4MDY3NCwtNzk3ODczMDY2LDIyOT
+c0NTM4NywtODExMDkzNzQzLDE1MzM4OTU1MDhdfQ==
 -->
