@@ -43,8 +43,8 @@ The key features of Angular are:
 
 ## What are controllers in Angular?
 
-- Controllers are JavaScript functions which provide data and logic to HTML UI. As the name suggests, 
-- They control how data flows from the server to HTML UI. 
+- Controllers are JavaScript functions which provide data and logic to HTML UI. 
+- As the name suggests, They control how data flows from the server to HTML UI. 
 
 ## What is Angular Expression? How do you differentiate between Angular expressions and JavaScript expressions?   
 
@@ -123,7 +123,7 @@ No. Only one Angular application can be auto-bootstrapped per HTML document.
 - If another `ng-app` directive has been placed then it will not be processed by Angular and we will need to manually bootstrap the second app, instead of using second `ng-app` directive.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDYyMzk2Niw2MzA2NzEyNjQsNjA4Nz
+eyJoaXN0b3J5IjpbLTI0NTA1Njk5NCw2MzA2NzEyNjQsNjA4Nz
 Y4MjgzLC0yMDcwMjU2MTUwLDYwMzM2OTkxNiwtMTA4MDE4MDY3
 NCwtNzk3ODczMDY2LDIyOTc0NTM4NywtODExMDkzNzQzLDE1Mz
 M4OTU1MDhdfQ==
