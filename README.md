@@ -179,9 +179,9 @@ It is a five-step process:
 
 ### Explain `$q` service, deferred and promises.
 
-- `promise`
+- `promises` are post logic's which are executed after some operation/ action is completed whereas 'deferred' is use
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzc1MjE2NiwyMDM2NzQxOTA2LDE3Nj
+eyJoaXN0b3J5IjpbMTI5MDU4NTEyMSwyMDM2NzQxOTA2LDE3Nj
 cwNzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQy
 LC00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNT
 EwNTgyMSwtOTMwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQs
