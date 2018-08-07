@@ -180,10 +180,10 @@ It is a five-step process:
 ### Explain `$q` service, deferred and promises.
 
 - `promises` are post logic's which are executed after some operation/ action is completed whereas `deferred` is used to control how and when those promise logic's will execute.
-- We can think about `promi`
+- We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will exe
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzNjgxNDM3LDIwMzY3NDE5MDYsMTc2Nz
+eyJoaXN0b3J5IjpbLTYyMTgyNTQwLDIwMzY3NDE5MDYsMTc2Nz
 A3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIs
 LTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MT
 A1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2
