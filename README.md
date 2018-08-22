@@ -12,7 +12,7 @@
 	- The Template (View)
 	- The Scope (Model) 
 	- The Controller (Controller)
-- Ang 
+- Angul 
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -197,11 +197,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5OD
-Y0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5
-MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01ND
-I5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0
-OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMD
-Y3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2
-XX0=
+eyJoaXN0b3J5IjpbMTA3MDk3MDg4NSw5NzkxOTczNzIsLTE3MD
+cyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2
+NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMj
+YyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMx
+MTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2Mz
+UwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1
+MF19
 -->
