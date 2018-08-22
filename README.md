@@ -1,5 +1,9 @@
 ## ng  Questions and Answers
 
+### What is Angular
+- **Angular** is a JavaScript framework that is used for making rich, extensible web applications.
+- It runs on plain Javas
+
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
 |--|--|--|
@@ -183,7 +187,7 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA3NjgxMDcsLTEyNTAzMzI2NTYsMj
+eyJoaXN0b3J5IjpbLTEyMTExODk2MjUsLTEyNTAzMzI2NTYsMj
 AzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMjYyNjMz
 MjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMxMTAsNj
 c1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3
