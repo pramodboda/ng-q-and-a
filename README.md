@@ -16,7 +16,7 @@
 
 ### What is Template in Angular 
 - The template is the HTML portion of the angular app.
-- I
+- It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -201,11 +201,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDgyMzM3MywxODIwNzQyNjE1LDk3OT
-E5NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAz
-NSwtMTI1MDMzMjY1NiwyMDM2NzQxOTA2LDE3NjcwNzk5NjAsND
-I4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcw
-MzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOT
-MwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4NzY4Mjgz
-XX0=
+eyJoaXN0b3J5IjpbODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MT
+k3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1
+LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MCw0Mj
+gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
+MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
+A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODNd
+fQ==
 -->
