@@ -12,7 +12,9 @@
 	- The Template (View)
 	- The Scope (Model) 
 	- The Controller (Controller)
-- Angul 
+- Angular extends HTML attributes with `Directives` and binds data to HTML with `Expressions`.
+
+### What is Template in Angular 
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -197,7 +199,7 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDk3MDg4NSw5NzkxOTczNzIsLTE3MD
+eyJoaXN0b3J5IjpbMTgyMDc0MjYxNSw5NzkxOTczNzIsLTE3MD
 cyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2
 NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMj
 YyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMx
