@@ -42,6 +42,20 @@ The key features of Angular are:
 - The template is the HTML portion of the angular app.
 - It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
+### What is the scope in Angular
+- T
+
+### What are the characteristics of  `scope`?
+
+- Scope is an object that refers to the application model. It is an execution context for expressions.
+- Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. 
+- Scope can watch expressions and propagate events. 
+- The characteristics of Scope are:
+	- Scope provide APIs ($watch) to observe model mutations.
+	- Scope provide APIs ($apply) to propagate any model changes through the system into the view from outside of the "Angular realm" (controllers, services, Angular event handlers).
+	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"(prototypically) inherits properties from its parent scope. An "isolate scope" dose not.
+	- Scope provide context against which expressions are evaluated. For example `{{username}}` expression is meaningless, unless it is evaluated against a specific scope which deines the `username` property.
+
 ### Explain data binding in Angular?
 
 - According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model as the single-source-of-truth in your application. The view is a projection of the model at all times. When the model changes, the view reflects the change and vice versa."
@@ -81,18 +95,6 @@ The key features of Angular are:
 - `Compile` function is used for template DOM Manipulation and to collect all the directives.
 - `Link` function is used for registering DOM listeners as well as instances DOM manipulation and is executed once the template has been cloned.
 
-###t is the scope in Angular
-
-### What are the characteristics of  `scope`?
-
-- Scope is an object that refers to the application model. It is an execution context for expressions.
-- Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. 
-- Scope can watch expressions and propagate events. 
-- The characteristics of Scope are:
-	- Scope provide APIs ($watch) to observe model mutations.
-	- Scope provide APIs ($apply) to propagate any model changes through the system into the view from outside of the "Angular realm" (controllers, services, Angular event handlers).
-	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"(prototypically) inherits properties from its parent scope. An "isolate scope" dose not.
-	- Scope provide context against which expressions are evaluated. For example `{{username}}` expression is meaningless, unless it is evaluated against a specific scope which deines the `username` property.
 
 ### What are the advantages of using Angular framework?
 
@@ -203,11 +205,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NDg1Miw4MzAwOTY3ODksMTgyMDc0Mj
-YxNSw5NzkxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3
-ODA2MTAwMzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MD
-c5OTYwLDQyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0Miwt
-NDEzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMD
-U4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0XX0=
-
+eyJoaXN0b3J5IjpbLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4Mj
+A3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUz
+NjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMT
+c2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMy
+NDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNj
+M1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2
+NF19
 -->
