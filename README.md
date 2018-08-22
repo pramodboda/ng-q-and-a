@@ -43,7 +43,7 @@ The key features of Angular are:
 - It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
 ### What is the scope in Angular
-- T
+- The scope is the object that represents 
 
 ### What are the characteristics of  `scope`?
 
@@ -205,11 +205,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4Mj
-A3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUz
-NjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMT
-c2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMy
-NDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNj
-M1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2
-NF19
+eyJoaXN0b3J5IjpbLTEzNTQ0ODY1NjAsLTExNjAxMDYwMDEsOD
+MwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5
+OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LD
+IwMzY3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYz
+MzIwLC01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLD
+Y3NTEzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4
+NzUwXX0=
 -->
