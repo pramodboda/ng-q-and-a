@@ -14,9 +14,6 @@
 	- The Controller (Controller)
 - Angular extends HTML attributes with `Directives` and binds data to HTML with `Expressions`.
 
-### What is Template in Angular 
-- The template is the HTML portion of the angular app.
-- It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -40,6 +37,10 @@ The key features of Angular are:
 - Directives
 - Filters
 - Testable
+
+### What is Template in Angular 
+- The template is the HTML portion of the angular app.
+- It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
 ### Explain data binding in Angular?
 
@@ -80,6 +81,7 @@ The key features of Angular are:
 - `Compile` function is used for template DOM Manipulation and to collect all the directives.
 - `Link` function is used for registering DOM listeners as well as instances DOM manipulation and is executed once the template has been cloned.
 
+###t is the scope in Angular
 
 ### What are the characteristics of  `scope`?
 
@@ -201,11 +203,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MT
-k3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1
-LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MCw0Mj
-gyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAz
-MCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1ODIxLC05Mz
-A1MzI0NjMsNjM1MDU4NzUwLDYzMDY3MTI2NCw2MDg3NjgyODNd
-fQ==
+eyJoaXN0b3J5IjpbOTQ4NDg1Miw4MzAwOTY3ODksMTgyMDc0Mj
+YxNSw5NzkxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3
+ODA2MTAwMzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MD
+c5OTYwLDQyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0Miwt
+NDEzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMD
+U4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0XX0=
+
 -->
