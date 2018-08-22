@@ -9,8 +9,10 @@
 ### Explain the architecture of Angular
 
 - Angular is atrchitecture on 3 components. They are
-	- The Template(View)
-	- The Scope(Model) 
+	- The Template (View)
+	- The Scope (Model) 
+	- The Controller (Controller)
+- Ang 
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -195,11 +197,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3OD
-A2MTAwMzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5
-OTYwLDQyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtND
-EzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4
-MjEsLTkzMDUzMjQ2Myw2MzUwNTg3NTAsNjMwNjcxMjY0LDYwOD
-c2ODI4MywtMjA3MDI1NjE1MCw2MDMzNjk5MTYsLTEwODAxODA2
-NzRdfQ==
+eyJoaXN0b3J5IjpbOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5OD
+Y0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5
+MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01ND
+I5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0
+OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUwLDYzMD
+Y3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMzY5OTE2
+XX0=
 -->
