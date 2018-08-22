@@ -2,7 +2,8 @@
 
 ### What is Angular
 - **Angular** is a JavaScript framework that is used for making rich, extensible web applications.
-- It runs on plain Javas
+- It runs on plain JavaScript and HTML, so you don't need any other dependencies to make it work.
+- Angular is perfect for
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -187,11 +188,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTExODk2MjUsLTEyNTAzMzI2NTYsMj
-AzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMjYyNjMz
-MjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMxMTAsNj
-c1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2MzUwNTg3
-NTAsNjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1MCw2MD
-MzNjk5MTYsLTEwODAxODA2NzQsLTc5Nzg3MzA2NiwyMjk3NDUz
-ODddfQ==
+eyJoaXN0b3J5IjpbNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMz
+Y3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIw
+LC01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NT
+EzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4NzUw
+LDYzMDY3MTI2NCw2MDg3NjgyODMsLTIwNzAyNTYxNTAsNjAzMz
+Y5OTE2LC0xMDgwMTgwNjc0LC03OTc4NzMwNjYsMjI5NzQ1Mzg3
+XX0=
 -->
