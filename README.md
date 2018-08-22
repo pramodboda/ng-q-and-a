@@ -15,6 +15,8 @@
 - Angular extends HTML attributes with `Directives` and binds data to HTML with `Expressions`.
 
 ### What is Template in Angular 
+- The template is the HTML portion of the angular app.
+- I
 
 ### What is the difference between Angular and jQuery?
 | Features | jQuery | Angular |
@@ -199,11 +201,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDc0MjYxNSw5NzkxOTczNzIsLTE3MD
-cyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2
-NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMj
-YyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMx
-MTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMDUzMjQ2Myw2Mz
-UwNTg3NTAsNjMwNjcxMjY0LDYwODc2ODI4MywtMjA3MDI1NjE1
-MF19
+eyJoaXN0b3J5IjpbLTgwMDgyMzM3MywxODIwNzQyNjE1LDk3OT
+E5NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAz
+NSwtMTI1MDMzMjY1NiwyMDM2NzQxOTA2LDE3NjcwNzk5NjAsND
+I4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcw
+MzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOT
+MwNTMyNDYzLDYzNTA1ODc1MCw2MzA2NzEyNjQsNjA4NzY4Mjgz
+XX0=
 -->
