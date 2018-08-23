@@ -43,7 +43,7 @@ The key features of Angular are:
 - It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
 ### What is the scope in Angular ?
-- The scope is the object that represents the `mod
+- The scope is the object that represents the `model` of your application. It containes fields that store data which is presented to the user via the template, as well as functions which can be called when the user performs certain actions such as clicking a button.
 
 ### What are the characteristics of  `scope` ?
 
@@ -205,11 +205,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzE5NTA1NSwtMTM1NDQ4NjU2MCwtMT
-E2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTcz
-NzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLT
-EyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5
-MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC
-0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMDUz
-MjQ2M119
+eyJoaXN0b3J5IjpbLTUzMjI2OTE0LC0xMzU0NDg2NTYwLC0xMT
+YwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQyNjE1LDk3OTE5NzM3
+MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAzNSwtMT
+I1MDMzMjY1NiwyMDM2NzQxOTA2LDE3NjcwNzk5NjAsNDI4Mjkx
+Mzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcwMzAsLT
+M0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOTMwNTMy
+NDYzXX0=
 -->
