@@ -15,7 +15,7 @@
 |`Controller` are used to write logics and interact with `Model` and `View`| In Angular2 `Controllers` are totally elminated and `Components` take its place.|
 |Angular1 is created for developing Single page web-applications(SPAs). | In Angular2 can used for developing native applications for mobile platform like `React` Native as well interactive web applications. |
 |AngularJS is easy to setup, you just need to include angular.js library to start.|Angular2 is dependent on other modules/packages. It gives little brainstrom to install and run Angular2.|
-|In AngularJS `ng-app`||
+|In AngularJS `ng-app` directive is used bootstrap the app. | `ng-app` is removed on Angular 2. You need to call Angular2 bootstrap method to bootstrap your application.|
 
 
 ### Explain the architecture of Angular?
@@ -217,7 +217,7 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzgzNjExMywtNTMyMjY5MTQsLTEzNT
+eyJoaXN0b3J5IjpbLTIzNTgyOTI0MiwtNTMyMjY5MTQsLTEzNT
 Q0ODY1NjAsLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2
 MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNz
 gwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3
