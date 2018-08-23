@@ -80,7 +80,7 @@ The key features of Angular are:
 - A core feature of Angular, directives are attributes that allows you to invent new HTML syntax, specific to your application. They are essentially functions that execute when the Angular compiler finds them in the DOM.
 - Some of the most commonly used directives are `ng-app`, `ng-controller` and `ng-repeat`. 
 - The different types of directives are: 
-	 - Element directives. - `<love> </love>`
+	 - Element directives. - `<love></love>`
 	 - Attribute directives. - `ng-hide`, `nd-model`
 	 - CSS class directives. - `class= "my-dir: expresstion;"`
 	 - Comment directives. 
@@ -218,11 +218,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMxMzU1NjcsMTc5MzQ0MTA4NywxNz
-g1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2MCwtMTE2MDEw
-NjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTczNzIsLT
-E3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAz
-MzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OC
-wyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0
-OTMxMTBdfQ==
+eyJoaXN0b3J5IjpbMzExNDYyMjQxLDE3OTM0NDEwODcsMTc4NT
+g5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLTExNjAxMDYw
+MDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNz
+A3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMy
+NjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMj
+I2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkz
+MTEwXX0=
 -->
