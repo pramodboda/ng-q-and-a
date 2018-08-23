@@ -6,6 +6,11 @@
 - Angular is perfect for Single Page Application(SPA). 
 - It is basically used for binding JavaScript objects with HTML UI elements.
 
+### List some difference between AngularJS and Angular 2?
+
+| AngularJS 1.x | Angular 2,3, |
+| | |
+
 ### Explain the architecture of Angular?
 
 - Angular is atrchitecture on 3 components. They are
@@ -205,11 +210,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjI2OTE0LC0xMzU0NDg2NTYwLC0xMT
-YwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQyNjE1LDk3OTE5NzM3
-MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAzNSwtMT
-I1MDMzMjY1NiwyMDM2NzQxOTA2LDE3NjcwNzk5NjAsNDI4Mjkx
-Mzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC00MTMxMzcwMzAsLT
-M0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEwNTgyMSwtOTMwNTMy
-NDYzXX0=
+eyJoaXN0b3J5IjpbLTEyNzgwMDQ2NjQsLTUzMjI2OTE0LC0xMz
+U0NDg2NTYwLC0xMTYwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQy
+NjE1LDk3OTE5NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLD
+c4MDYxMDAzNSwtMTI1MDMzMjY1NiwyMDM2NzQxOTA2LDE3Njcw
+Nzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC
+00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEw
+NTgyMV19
 -->
