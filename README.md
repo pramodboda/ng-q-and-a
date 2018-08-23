@@ -1,12 +1,12 @@
 ## ng  Questions and Answers
 
-### What is Angular
+### What is Angular?
 - **Angular** is a JavaScript framework that is used for making rich, extensible web applications.
 - It runs on plain JavaScript and HTML, so you don't need any other dependencies to make it work.
 - Angular is perfect for Single Page Application(SPA). 
 - It is basically used for binding JavaScript objects with HTML UI elements.
 
-### Explain the architecture of Angular
+### Explain the architecture of Angular?
 
 - Angular is atrchitecture on 3 components. They are
 	- The Template (View)
@@ -38,14 +38,14 @@ The key features of Angular are:
 - Filters
 - Testable
 
-### What is Template in Angular 
+### What is Template in Angular ?
 - The template is the HTML portion of the angular app.
 - It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
-### What is the scope in Angular
-- The scope is the object that represents 
+### What is the scope in Angular ?
+- The scope is the object that represents the `mod
 
-### What are the characteristics of  `scope`?
+### What are the characteristics of  `scope` ?
 
 - Scope is an object that refers to the application model. It is an execution context for expressions.
 - Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. 
@@ -205,11 +205,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ0ODY1NjAsLTExNjAxMDYwMDEsOD
-MwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5
-OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LD
-IwMzY3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYz
-MzIwLC01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLD
-Y3NTEzMzc0OSwxNjM1MTA1ODIxLC05MzA1MzI0NjMsNjM1MDU4
-NzUwXX0=
+eyJoaXN0b3J5IjpbLTg2MzE5NTA1NSwtMTM1NDQ4NjU2MCwtMT
+E2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTcz
+NzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLT
+EyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5
+MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3MDMwLC
+0zNDc0OTMxMTAsNjc1MTMzNzQ5LDE2MzUxMDU4MjEsLTkzMDUz
+MjQ2M119
 -->
