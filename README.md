@@ -54,10 +54,10 @@ The key features of Angular are:
 - The template is the HTML portion of the angular app.
 - It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
-### What is the `scope` in Angular ?
+### What is the `Scope` in Angular ?
 - The scope is the object that represents the `model` of your application. It containes fields that store data which is presented to the user via the template, as well as functions which can be called when the user performs certain actions such as clicking a button.
 
-### What are the characteristics of  `scope` ?
+### What are the characteristics of  `Scope` ?
 
 - Scope is an object that refers to the application model. It is an execution context for expressions.
 - Scopes are arranged in hierarchical structure which mimic the DOM structure of the application. 
@@ -68,14 +68,14 @@ The key features of Angular are:
 	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"(prototypically) inherits properties from its parent scope. An "isolate scope" dose not.
 	- Scope provide context against which expressions are evaluated. For example `{{username}}` expression is meaningless, unless it is evaluated against a specific scope which deines the `username` property.
 
-### Explain `data binding` in Angular?
+### Explain `Data Binding` in Angular?
 
 - According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model as the single-source-of-truth in your application. The view is a projection of the model at all times. When the model changes, the view reflects the change and vice versa."
 - There are two ways of data binding:
 1. Data mining in classical template systems.
 2. Data binding in angular templates.
 
-### What are `directives` in Angular?
+### What are `Directives` in Angular?
 
 - A core feature of Angular, directives are attributes that allows you to invent new HTML syntax, specific to your application. They are essentially functions that execute when the Angular compiler finds them in the DOM.
 - Some of the most commonly used directives are `ng-app`, `ng-controller` and `ng-repeat`. 
@@ -85,11 +85,11 @@ The key features of Angular are:
 	 - CSS class directives.
 	 - Comment directives.
 
-### What are `controllers` in Angular?
+### What are `Controllers` in Angular?
 
 - Controllers are JavaScript functions which provide data and logic to HTML UI. 
 - As the name suggests, They control how data flows from the server to HTML UI. 
-- The `Controller` is a function which generally takes an empty scope object as a parameter and adds to it the fields and functions that will be later exposed to the user via the `View`.
+- The `Controller` is a function which generally takes an empty `scope object` as a parameter and adds to it the `fields and functions` that will be later exposed to the user via the `View`.
 
 ### What is Angular Expression? How do you differentiate between Angular expressions and JavaScript expressions?   
 
@@ -218,7 +218,7 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTczMTA3MywxNzg1ODk5MzEzLC01Mz
+eyJoaXN0b3J5IjpbMTc5MzQ0MTA4NywxNzg1ODk5MzEzLC01Mz
 IyNjkxNCwtMTM1NDQ4NjU2MCwtMTE2MDEwNjAwMSw4MzAwOTY3
 ODksMTgyMDc0MjYxNSw5NzkxOTczNzIsLTE3MDcyMDk5OTgsMT
 k4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2NTYsMjAzNjc0
