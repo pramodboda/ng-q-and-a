@@ -54,7 +54,7 @@ The key features of Angular are:
 - The template is the HTML portion of the angular app.
 - It is exactly like a static HTML page, except that templates contain additional syntax which allows data to be injected in it in order to provide a customized user experience.
 
-### What is the scope in Angular ?
+### What is the `scope` in Angular ?
 - The scope is the object that represents the `model` of your application. It containes fields that store data which is presented to the user via the template, as well as functions which can be called when the user performs certain actions such as clicking a button.
 
 ### What are the characteristics of  `scope` ?
@@ -68,14 +68,14 @@ The key features of Angular are:
 	- Scope can be nested to limit access to the properties of application components while providing access to shared model properties. Nested scopes are either "child scopes" or "isolate scope". A "child scope"(prototypically) inherits properties from its parent scope. An "isolate scope" dose not.
 	- Scope provide context against which expressions are evaluated. For example `{{username}}` expression is meaningless, unless it is evaluated against a specific scope which deines the `username` property.
 
-### Explain data binding in Angular?
+### Explain `data binding` in Angular?
 
 - According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model as the single-source-of-truth in your application. The view is a projection of the model at all times. When the model changes, the view reflects the change and vice versa."
 - There are two ways of data binding:
 1. Data mining in classical template systems.
 2. Data binding in angular templates.
 
-### What are directives in Angular?
+### What are `directives` in Angular?
 
 - A core feature of Angular, directives are attributes that allows you to invent new HTML syntax, specific to your application. They are essentially functions that execute when the Angular compiler finds them in the DOM.
 - Some of the most commonly used directives are `ng-app`, `ng-controller` and `ng-repeat`. 
@@ -85,7 +85,7 @@ The key features of Angular are:
 	 - CSS class directives.
 	 - Comment directives.
 
-### What are controllers in Angular?
+### What are `controllers` in Angular?
 
 - Controllers are JavaScript functions which provide data and logic to HTML UI. 
 - As the name suggests, They control how data flows from the server to HTML UI. 
@@ -217,11 +217,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNT
-Q0ODY1NjAsLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2
-MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNz
-gwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3
-OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLT
-QxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1
-ODIxXX0=
+eyJoaXN0b3J5IjpbLTE4MTg2ODAzNTUsMTc4NTg5OTMxMywtNT
+MyMjY5MTQsLTEzNTQ0ODY1NjAsLTExNjAxMDYwMDEsODMwMDk2
+Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LD
+E5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3
+NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC
+01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEz
+Mzc0OV19
 -->
