@@ -13,7 +13,7 @@
 |AngularJS or Angular 1.x is based on `MVC Architecture`.|Angular2 is based on `service/ componets`|
 |`JavaScript` is used to write applications in `AngularJS` |`TypeScript(superset of javascript)` is used to write application in `Angular2`|
 |`Controller` are used to write logics and interact with `Model` and `View`| In Angular2 `Controllers` are totally elminated and `Components` take its place.|
-|Angular1 is created for developing Single page web-applications(SPAs). | In Angular2 can used for developing native applications for mobile platform like ``|
+|Angular1 is created for developing Single page web-applications(SPAs). | In Angular2 can used for developing native applications for mobile platform like `React Native as we`|
 
 ### Explain the architecture of Angular?
 
@@ -214,11 +214,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTg0NzE5MiwtNTMyMjY5MTQsLTEzNT
-Q0ODY1NjAsLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2
-MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNz
-gwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3
-OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLT
-QxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEzMzc0OSwxNjM1MTA1
-ODIxXX0=
+eyJoaXN0b3J5IjpbLTE5MDE2OTg3NjQsLTUzMjI2OTE0LC0xMz
+U0NDg2NTYwLC0xMTYwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQy
+NjE1LDk3OTE5NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLD
+c4MDYxMDAzNSwtMTI1MDMzMjY1NiwyMDM2NzQxOTA2LDE3Njcw
+Nzk5NjAsNDI4MjkxMzg4LDIyNjI2MzMyMCwtNTQyOTIzMjQyLC
+00MTMxMzcwMzAsLTM0NzQ5MzExMCw2NzUxMzM3NDksMTYzNTEw
+NTgyMV19
 -->
