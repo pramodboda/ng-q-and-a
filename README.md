@@ -89,6 +89,7 @@ The key features of Angular are:
 
 - Controllers are JavaScript functions which provide data and logic to HTML UI. 
 - As the name suggests, They control how data flows from the server to HTML UI. 
+- The `Contro`
 
 ### What is Angular Expression? How do you differentiate between Angular expressions and JavaScript expressions?   
 
@@ -217,11 +218,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg2ODAzNTUsMTc4NTg5OTMxMywtNT
-MyMjY5MTQsLTEzNTQ0ODY1NjAsLTExNjAxMDYwMDEsODMwMDk2
-Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LD
-E5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3
-NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYzMzIwLC
-01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkzMTEwLDY3NTEz
-Mzc0OV19
+eyJoaXN0b3J5IjpbMTkxMTUyNzY0MCwxNzg1ODk5MzEzLC01Mz
+IyNjkxNCwtMTM1NDQ4NjU2MCwtMTE2MDEwNjAwMSw4MzAwOTY3
+ODksMTgyMDc0MjYxNSw5NzkxOTczNzIsLTE3MDcyMDk5OTgsMT
+k4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2NTYsMjAzNjc0
+MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMjYyNjMzMjAsLT
+U0MjkyMzI0MiwtNDEzMTM3MDMwLC0zNDc0OTMxMTAsNjc1MTMz
+NzQ5XX0=
 -->
