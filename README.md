@@ -249,9 +249,9 @@ It is a five-step process:
 - We can also use `$apply()` if we want to trigger the digest cycle manually.
 
 ### What is internationalization in Angular?
-**Inter**
+**Internat**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE3ODM5MzcsMTQ2NzYwOTc1NSwtMT
+eyJoaXN0b3J5IjpbLTIxNDcwNTM1MTYsMTQ2NzYwOTc1NSwtMT
 c3NTAyMDA0NSwtMTUxMzQ0MjQzLDMxMTQ2MjI0MSwxNzkzNDQx
 MDg3LDE3ODU4OTkzMTMsLTUzMjI2OTE0LC0xMzU0NDg2NTYwLC
 0xMTYwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQyNjE1LDk3OTE5
