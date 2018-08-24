@@ -107,10 +107,10 @@ Angular `directives` are extended HTML attributes with the prefix `ng-`
 
 |  | **Angular** | **JavaScript** |
 |--|--|--|
-|  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
-| **Forgiving** | In Angular expression, the evaluation is forgiving to `null` and `undefined`.   | whereas in JavaScript `undefined` properties generate `TypeError` or `ReferenceError`. |
 | **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular expression. | While JavaScript expression do. |
 | **Filters** | In Angular, unlike JavaScript, we can use filters to format data before displaying it. | while JavaScript expressions do not. | 
+|  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
+| **Forgiving** | In Angular expression, the evaluation is forgiving to `null` and `undefined`.   | whereas in JavaScript `undefined` properties generate `TypeError` or `ReferenceError`. |
 
 ### What is the different between `link` and `compile` in Angular?
 - `Compile` function is used for template DOM Manipulation and to collect all the directives.
@@ -253,11 +253,11 @@ It is a five-step process:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIyMzA5MywtMjAyNzQ4NjM5NywxND
-Y3NjA5NzU1LC0xNzc1MDIwMDQ1LC0xNTEzNDQyNDMsMzExNDYy
-MjQxLDE3OTM0NDEwODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLT
-EzNTQ0ODY1NjAsLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3
-NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNj
-MsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2
-NzA3OTk2MF19
+eyJoaXN0b3J5IjpbNzQ5NTQ5ODM1LC0xOTQyMjMwOTMsLTIwMj
+c0ODYzOTcsMTQ2NzYwOTc1NSwtMTc3NTAyMDA0NSwtMTUxMzQ0
+MjQzLDMxMTQ2MjI0MSwxNzkzNDQxMDg3LDE3ODU4OTkzMTMsLT
+UzMjI2OTE0LC0xMzU0NDg2NTYwLC0xMTYwMTA2MDAxLDgzMDA5
+Njc4OSwxODIwNzQyNjE1LDk3OTE5NzM3MiwtMTcwNzIwOTk5OC
+wxOTg2NDQ1MzYzLDc4MDYxMDAzNSwtMTI1MDMzMjY1NiwyMDM2
+NzQxOTA2XX0=
 -->
