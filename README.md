@@ -229,9 +229,9 @@ It is a five-step process:
 ### List some tools for testing Angular applications?
 - **Karma**
 - **Jasmine**
-- ****
+- **angular-mocks**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAyNTQ4NDUsLTE1MTM0NDI0MywzMT
+eyJoaXN0b3J5IjpbLTE3NzUwMjAwNDUsLTE1MTM0NDI0MywzMT
 E0NjIyNDEsMTc5MzQ0MTA4NywxNzg1ODk5MzEzLC01MzIyNjkx
 NCwtMTM1NDQ4NjU2MCwtMTE2MDEwNjAwMSw4MzAwOTY3ODksMT
 gyMDc0MjYxNSw5NzkxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0
