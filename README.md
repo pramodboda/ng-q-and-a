@@ -235,13 +235,14 @@ It is a five-step process:
 
 ### How do you share data between controllers in Angular?
 - We can share data by creating a `service`
-- ``
+- `service` are easiest, fastest and cleaner way to share data between `controllers` in Angular.
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNzA0NjQ3LC0xNzc1MDIwMDQ1LC0xNT
-EzNDQyNDMsMzExNDYyMjQxLDE3OTM0NDEwODcsMTc4NTg5OTMx
-MywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLTExNjAxMDYwMDEsOD
-MwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5
-OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LD
-IwMzY3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYz
-MzIwXX0=
+eyJoaXN0b3J5IjpbMTQ2NzYwOTc1NSwtMTc3NTAyMDA0NSwtMT
+UxMzQ0MjQzLDMxMTQ2MjI0MSwxNzkzNDQxMDg3LDE3ODU4OTkz
+MTMsLTUzMjI2OTE0LC0xMzU0NDg2NTYwLC0xMTYwMTA2MDAxLD
+gzMDA5Njc4OSwxODIwNzQyNjE1LDk3OTE5NzM3MiwtMTcwNzIw
+OTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAzNSwtMTI1MDMzMjY1Ni
+wyMDM2NzQxOTA2LDE3NjcwNzk5NjAsNDI4MjkxMzg4LDIyNjI2
+MzMyMF19
 -->
