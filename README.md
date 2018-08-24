@@ -237,8 +237,9 @@ It is a five-step process:
 - We can share data by creating a `service`
 - `service` are easiest, fastest and cleaner way to share data between `controllers` in Angular.
 - There are also other ways to share between controllers, they are
+	- Using **Events**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NjY1NTkxLDE0Njc2MDk3NTUsLTE3Nz
+eyJoaXN0b3J5IjpbNTgwMzg5MDYxLDE0Njc2MDk3NTUsLTE3Nz
 UwMjAwNDUsLTE1MTM0NDI0MywzMTE0NjIyNDEsMTc5MzQ0MTA4
 NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2MCwtMT
 E2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTcz
