@@ -226,13 +226,16 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 
-### List some tools fo
+### List some tools for testing Angular applications?
+- **Karma**
+- **Jasmine**
+- ****
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM0NDI0MywzMTE0NjIyNDEsMTc5Mz
-Q0MTA4NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2
-MCwtMTE2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5Nz
-kxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAw
-MzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLD
-QyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3
-MDMwXX0=
+eyJoaXN0b3J5IjpbLTE1NDAyNTQ4NDUsLTE1MTM0NDI0MywzMT
+E0NjIyNDEsMTc5MzQ0MTA4NywxNzg1ODk5MzEzLC01MzIyNjkx
+NCwtMTM1NDQ4NjU2MCwtMTE2MDEwNjAwMSw4MzAwOTY3ODksMT
+gyMDc0MjYxNSw5NzkxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0
+NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNi
+wxNzY3MDc5OTYwLDQyODI5MTM4OCwyMjYyNjMzMjAsLTU0Mjky
+MzI0Ml19
 -->
