@@ -242,9 +242,11 @@ It is a five-step process:
 	- Using the `$rootScope`
 
 
-### Explain Angular digest c
+### Explain Angular digest cycle?
+- Angular digest cycle is the process behind Angular data binding.
+- In each digest cycle, Angular compares the old and the new version of the scope modl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDUwOTY2MiwxNDY3NjA5NzU1LC0xNz
+eyJoaXN0b3J5IjpbMTA2Mjg4MTY2NywxNDY3NjA5NzU1LC0xNz
 c1MDIwMDQ1LC0xNTEzNDQyNDMsMzExNDYyMjQxLDE3OTM0NDEw
 ODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLT
 ExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3
