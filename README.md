@@ -85,6 +85,9 @@ The key features of Angular are:
 	 - CSS class directives. - `class= "my-dir: expresstion;"`
 	 - Comment directives. 
 
+### Explain `Directives` in Angular?
+Angular `directives` are e
+
 ### What are `Controllers` in Angular?
 
 - Controllers are JavaScript functions which provide data and logic to HTML UI. 
@@ -218,11 +221,11 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNDYyMjQxLDE3OTM0NDEwODcsMTc4NT
-g5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLTExNjAxMDYw
-MDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNz
-A3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMy
-NjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMj
-I2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEzNzAzMCwtMzQ3NDkz
-MTEwXX0=
+eyJoaXN0b3J5IjpbMTM0OTIzMjk1OCwzMTE0NjIyNDEsMTc5Mz
+Q0MTA4NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2
+MCwtMTE2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5Nz
+kxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAw
+MzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLD
+QyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3
+MDMwXX0=
 -->
