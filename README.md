@@ -71,9 +71,10 @@ The key features of Angular are:
 ### Explain `Data Binding` in Angular?
 
 - According to AngularJS.org, "Data-binding in Angular apps is the automatic synchronization of data between the model and view components. The way that Angular implements data-binding lets you treat the model as the single-source-of-truth in your application. The view is a projection of the model at all times. When the model changes, the view reflects the change and vice versa."
+
 - There are two ways of data binding:
-1. Data mining in classical template systems.
-2. Data binding in angular templates.
+	1. Data mining in classical template systems.
+	2. Data binding in angular templates.
 
 ### What are `Directives` in Angular?
 
@@ -227,11 +228,11 @@ It is a five-step process:
 
 ### List some tools fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAwOTAyNDUsMzExNDYyMjQxLDE3OT
-M0NDEwODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1
-NjAsLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOT
-c5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEw
-MDM1LC0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MC
-w0MjgyOTEzODgsMjI2MjYzMzIwLC01NDI5MjMyNDIsLTQxMzEz
-NzAzMF19
+eyJoaXN0b3J5IjpbLTE1MTM0NDI0MywzMTE0NjIyNDEsMTc5Mz
+Q0MTA4NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2
+MCwtMTE2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5Nz
+kxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAw
+MzUsLTEyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLD
+QyODI5MTM4OCwyMjYyNjMzMjAsLTU0MjkyMzI0MiwtNDEzMTM3
+MDMwXX0=
 -->
