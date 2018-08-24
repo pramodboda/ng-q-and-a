@@ -107,7 +107,7 @@ Angular `directives` are extended HTML attributes with the prefix `ng-`
 
 |  | **Angular** | **JavaScript** |
 |--|--|--|
-|**Usage**| Angular `expressions` can be written in HTML || 
+|**Usage**| Angular `expressions` can be written in HTML. | JavaScript `expresstions` cannot written in HTML.| 
 | **No Control Flow Statements** | We cannot use loops, conditionals or exceptions in an Angular expression. | While JavaScript expression do. |
 | **Filters** | In Angular, unlike JavaScript, we can use filters to format data before displaying it. | while JavaScript expressions do not. | 
 |  **Context** | The expression are evaluted against a `scope object` in Angular. | while JavaScript expression are evaluated against the `global window`. |
@@ -254,7 +254,7 @@ It is a five-step process:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjM5NjQyMywtMTk0MjIzMDkzLC0yMD
+eyJoaXN0b3J5IjpbLTkzNTcwMTQ3MSwtMTk0MjIzMDkzLC0yMD
 I3NDg2Mzk3LDE0Njc2MDk3NTUsLTE3NzUwMjAwNDUsLTE1MTM0
 NDI0MywzMTE0NjIyNDEsMTc5MzQ0MTA4NywxNzg1ODk5MzEzLC
 01MzIyNjkxNCwtMTM1NDQ4NjU2MCwtMTE2MDEwNjAwMSw4MzAw
