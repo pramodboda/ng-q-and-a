@@ -232,12 +232,16 @@ It is a five-step process:
 - **angular-mocks**
 - **Mocha**
 - **Browseify**
+
+### How do you share data between controllers in Angular?
+- We can share data by creating a `service`
+- ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM0NzY3MDksLTE3NzUwMjAwNDUsLT
-E1MTM0NDI0MywzMTE0NjIyNDEsMTc5MzQ0MTA4NywxNzg1ODk5
-MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2MCwtMTE2MDEwNjAwMS
-w4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTczNzIsLTE3MDcy
-MDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLTEyNTAzMzI2NT
-YsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5MTM4OCwyMjYy
-NjMzMjBdfQ==
+eyJoaXN0b3J5IjpbNjUwNzA0NjQ3LC0xNzc1MDIwMDQ1LC0xNT
+EzNDQyNDMsMzExNDYyMjQxLDE3OTM0NDEwODcsMTc4NTg5OTMx
+MywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLTExNjAxMDYwMDEsOD
+MwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3MzcyLC0xNzA3MjA5
+OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC0xMjUwMzMyNjU2LD
+IwMzY3NDE5MDYsMTc2NzA3OTk2MCw0MjgyOTEzODgsMjI2MjYz
+MzIwXX0=
 -->
