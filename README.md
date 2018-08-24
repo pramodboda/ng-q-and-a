@@ -249,13 +249,15 @@ It is a five-step process:
 - We can also use `$apply()` if we want to trigger the digest cycle manually.
 
 ### What is internationalization in Angular?
-**Internationalization **
+**Internationalization** is a way to show locale-specific information on a website. It is used to create multilingual language websites.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2Mzc0MzUzLDE0Njc2MDk3NTUsLTE3Nz
-UwMjAwNDUsLTE1MTM0NDI0MywzMTE0NjIyNDEsMTc5MzQ0MTA4
-NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2MCwtMT
-E2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTcz
-NzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLT
-EyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5
-MTM4OF19
+eyJoaXN0b3J5IjpbLTIwMjc0ODYzOTcsMTQ2NzYwOTc1NSwtMT
+c3NTAyMDA0NSwtMTUxMzQ0MjQzLDMxMTQ2MjI0MSwxNzkzNDQx
+MDg3LDE3ODU4OTkzMTMsLTUzMjI2OTE0LC0xMzU0NDg2NTYwLC
+0xMTYwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQyNjE1LDk3OTE5
+NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAzNS
+wtMTI1MDMzMjY1NiwyMDM2NzQxOTA2LDE3NjcwNzk5NjAsNDI4
+MjkxMzg4XX0=
 -->
