@@ -88,7 +88,7 @@ The key features of Angular are:
 ### Explain `Directives` in Angular?
 Angular `directives` are extended HTML attributes with the prefix `ng-`
 
-- `ng-app` : directive is used to flag the HTML element that Angular should consi
+- `ng-app` : directive is used to flag the HTML element that Angular should consider to be the root element of our application. Angular uses `spinal-case `for its custom attributes and `camelCase`for the corresponding directives which implement them.
 
 ### What are `Controllers` in Angular?
 
@@ -223,7 +223,7 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzc0Nzk1MCwzMTE0NjIyNDEsMTc5Mz
+eyJoaXN0b3J5IjpbLTc5OTQ2NTE1NiwzMTE0NjIyNDEsMTc5Mz
 Q0MTA4NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2
 MCwtMTE2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5Nz
 kxOTczNzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAw
