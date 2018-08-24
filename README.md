@@ -246,9 +246,11 @@ It is a five-step process:
 - Angular digest cycle is the process behind Angular data binding.
 - In each digest cycle, Angular compares the old and the new version of the scope model values.
 - The digest cycle is triggered automatically. 
-- We can also use `$apply()` if we want to trigger the digest cycle
+- We can also use `$apply()` if we want to trigger the digest cycle manually.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQwMDg4MSwxNDY3NjA5NzU1LC0xNz
+eyJoaXN0b3J5IjpbMTI4NTk0MTA0MCwxNDY3NjA5NzU1LC0xNz
 c1MDIwMDQ1LC0xNTEzNDQyNDMsMzExNDYyMjQxLDE3OTM0NDEw
 ODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLT
 ExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3
