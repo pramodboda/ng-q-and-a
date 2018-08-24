@@ -248,13 +248,14 @@ It is a five-step process:
 - The digest cycle is triggered automatically. 
 - We can also use `$apply()` if we want to trigger the digest cycle manually.
 
-
+### What is internationalization in Angular?
+**Inter**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk0MTA0MCwxNDY3NjA5NzU1LC0xNz
-c1MDIwMDQ1LC0xNTEzNDQyNDMsMzExNDYyMjQxLDE3OTM0NDEw
-ODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLT
-ExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3
-MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC
-0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MCw0Mjgy
-OTEzODhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjE3ODM5MzcsMTQ2NzYwOTc1NSwtMT
+c3NTAyMDA0NSwtMTUxMzQ0MjQzLDMxMTQ2MjI0MSwxNzkzNDQx
+MDg3LDE3ODU4OTkzMTMsLTUzMjI2OTE0LC0xMzU0NDg2NTYwLC
+0xMTYwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQyNjE1LDk3OTE5
+NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAzNS
+wtMTI1MDMzMjY1NiwyMDM2NzQxOTA2LDE3NjcwNzk5NjAsNDI4
+MjkxMzg4XX0=
 -->
