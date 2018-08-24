@@ -238,12 +238,17 @@ It is a five-step process:
 - `service` are easiest, fastest and cleaner way to share data between `controllers` in Angular.
 - There are also other ways to share between controllers, they are
 	- Using **Events**
+	- `$parent`, `nextSibling`,  `controllerAs`
+	- Using the `$rootScope`
+
+
+### Explain Angular digest c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMzg5MDYxLDE0Njc2MDk3NTUsLTE3Nz
-UwMjAwNDUsLTE1MTM0NDI0MywzMTE0NjIyNDEsMTc5MzQ0MTA4
-NywxNzg1ODk5MzEzLC01MzIyNjkxNCwtMTM1NDQ4NjU2MCwtMT
-E2MDEwNjAwMSw4MzAwOTY3ODksMTgyMDc0MjYxNSw5NzkxOTcz
-NzIsLTE3MDcyMDk5OTgsMTk4NjQ0NTM2Myw3ODA2MTAwMzUsLT
-EyNTAzMzI2NTYsMjAzNjc0MTkwNiwxNzY3MDc5OTYwLDQyODI5
-MTM4OF19
+eyJoaXN0b3J5IjpbMTgxMDUwOTY2MiwxNDY3NjA5NzU1LC0xNz
+c1MDIwMDQ1LC0xNTEzNDQyNDMsMzExNDYyMjQxLDE3OTM0NDEw
+ODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1NjAsLT
+ExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOTc5MTk3
+MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEwMDM1LC
+0xMjUwMzMyNjU2LDIwMzY3NDE5MDYsMTc2NzA3OTk2MCw0Mjgy
+OTEzODhdfQ==
 -->
