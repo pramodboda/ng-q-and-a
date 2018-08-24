@@ -224,8 +224,10 @@ It is a five-step process:
 - `promises` are post logic's which are executed after some operation/ action is completed whereas `deferred` is used to control how and when those promise logic's will execute.
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
+
+### List some tools fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE2Mzg5MjQsMzExNDYyMjQxLDE3OT
+eyJoaXN0b3J5IjpbLTE1NzAwOTAyNDUsMzExNDYyMjQxLDE3OT
 M0NDEwODcsMTc4NTg5OTMxMywtNTMyMjY5MTQsLTEzNTQ0ODY1
 NjAsLTExNjAxMDYwMDEsODMwMDk2Nzg5LDE4MjA3NDI2MTUsOT
 c5MTk3MzcyLC0xNzA3MjA5OTk4LDE5ODY0NDUzNjMsNzgwNjEw
