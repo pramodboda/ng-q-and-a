@@ -89,7 +89,8 @@ The key features of Angular are:
 Angular `directives` are extended HTML attributes with the prefix `ng-`
 
 - `ng-app` : directive is used to flag the HTML element that Angular should consider to be the root element of our application. Angular uses `spinal-case `for its custom attributes and `camelCase` for the corresponding directives which implement them.
-- `ng-model` : directive allows us to bind values of HTML controls(input, select, textarea) to application data. When using `ngModel`, not only change in the r
+- `ng-model` : directive allows us to bind values of HTML controls(input, select, textarea) to application data. When using `ngModel`, not only change in the scope reflected in the view, but changes in the view are reflected back into the scope.
+- `ng-bind`: directive binds application model data to the HTML `View`.
 
 ### What are `Controllers` in Angular?
 
@@ -224,7 +225,7 @@ It is a five-step process:
 - We can think about `promises` as "WHAT" we want to fire after an operation is completed while `deferred` controls "WHEN" and "HOW" those promises will execute.
 - `$q` is the angular service which provides `promises` and `deferred` functionality.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5ODQ0NTkyLDMxMTQ2MjI0MSwxNzkzND
+eyJoaXN0b3J5IjpbNjA0OTMwMTAyLDMxMTQ2MjI0MSwxNzkzND
 QxMDg3LDE3ODU4OTkzMTMsLTUzMjI2OTE0LC0xMzU0NDg2NTYw
 LC0xMTYwMTA2MDAxLDgzMDA5Njc4OSwxODIwNzQyNjE1LDk3OT
 E5NzM3MiwtMTcwNzIwOTk5OCwxOTg2NDQ1MzYzLDc4MDYxMDAz
